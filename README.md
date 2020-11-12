@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Get to know your exact age with number of years, months and days with just a click
 
-View the project live on :  [age-teller.netlify.app/](age-teller.netlify.app/).
+View the project live on :  [age-teller.netlify.app/]
